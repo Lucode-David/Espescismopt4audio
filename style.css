@@ -1,0 +1,174 @@
+
+* {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    background-color: black;
+}
+
+#banner {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    position: absolute;
+}
+
+header {
+    padding-bottom: 11%;
+}
+
+.conteudo {
+    box-shadow: 1.5px -10px 0px #000;
+    background-color: rgb(60, 60, 60);
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    width: 90%;
+    height: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 30px;
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ana {
+    border: 4px black solid;
+    border-radius: 10px;
+    float: left;
+    width: 70%;
+    padding: 20px;
+    margin: 30px;
+    padding-top: 5%;
+}
+
+.pedro {
+    border: 5px black solid;
+    border-radius: 10px;
+    float: right;
+    width: 70%;
+    padding: 20px;
+    margin: 30px;
+    padding-top: 5%;
+}
+
+.ana, .pedro {
+    background-color: rgba(137, 43, 226, 0.249);
+}
+
+#hq {
+    padding-top: 6%;
+    width: 56%;
+    padding-right: 4%;
+    height: 400px;
+}
+
+#gif {
+    padding-top: 6%;
+    width: 40%;
+    height: 400px;
+    float: right;
+}
+
+.usera img {
+    width: 55px;
+    height: 55px;
+    border: black 5px solid;
+    border-radius: 60px;
+    float: left;
+}
+
+.usera {
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    border: black 5px solid;
+    border-radius: 65px;
+    width: 160px;
+    height: 65px;
+    margin-left: 4%;
+}
+
+.usera h2 {
+    padding-top: 15px;
+    padding-left: 50%;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.userp img {
+    width: 55px;
+    height: 55px;
+    border: black 5px solid;
+    border-radius: 60px;
+    float: right;
+}
+
+.userp {
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    border: black 5px solid;
+    border-radius: 65px;
+    width: 180px;
+    height: 65px;
+    margin-left: 82%;
+    margin-top: 16%;
+    float: right;
+}
+
+.userp h2 {
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+#ana2 {
+    margin-top: 34%;
+}
+
+#pedro2 {
+    margin-top: 54%;
+}
+
+#ana3 {
+    margin-top: 72%;
+}
+
+#pedro3 {
+    margin-top: 88%;
+}
+
+#ana4 {
+    margin-top: 104%;
+}
+
+#pedro4 {
+    margin-top: 122%;
+}
+
+#ana5 {
+    margin-top: 140%;
+}
+
+audio {
+    width: 92%;
+    height: 50px;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 4%;
+}
